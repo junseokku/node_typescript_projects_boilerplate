@@ -1,0 +1,17 @@
+{
+  "name": "@junseokku/jsk-nextjs-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@rushstack/eslint-config": "^3.7.0",
+    "eslint": "^9.6.0",
+    "typescript": "^5.5.2"
+  }
+}
