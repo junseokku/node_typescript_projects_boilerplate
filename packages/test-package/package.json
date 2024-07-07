@@ -1,5 +1,5 @@
 {
-  "name": "@junseokkku/test-package",
+  "name": "@junseokku/test-package",
   "version": "1.0.0",
   "description": "A test typescript-react-vite package for my monorepo",
   "scripts": {
