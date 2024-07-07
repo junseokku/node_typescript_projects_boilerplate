@@ -1,0 +1,15 @@
+{
+  "name": "@junsekkku/create-test-package",
+  "version": "1.0.0",
+  "description": "junseooku's test package script for monorepo",
+  "bin": {
+    "create-test-package": "./bin/generate-app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/junseokku/node_typescript_projects_boilerplate.git"
+  },
+  "license": "ISC"
+}

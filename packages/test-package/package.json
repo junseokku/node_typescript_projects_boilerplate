@@ -1,8 +1,7 @@
 {
-  "name": "test-package",
+  "name": "@junseokkku/test-package",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "A test typescript-react-vite package for my monorepo",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "vite"
