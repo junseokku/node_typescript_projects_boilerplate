@@ -1,6 +1,6 @@
 {
   "name": "@junseokku/create-test-package",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "junseooku's test package script for monorepo",
   "bin": {
     "create-test-package": "bin/generate-app.js"
